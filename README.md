@@ -40,7 +40,7 @@ You can easily download  IDE from :
      
      3.You must remember the keys in order to decrypt the files back to plain text.
   
-      4.If option 2 is selected, program will ask you to input the public key and the value of mod for plain text conversion.
+     4.If option 2 is selected, program will ask you to input the public key and the value of mod for plain text conversion.
     
     
 
